@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* 1 Day
+ * Get up 💙
+ * Take a shower 🚿
+ * Breakfast 🍳
+ * Go to school 🏫
